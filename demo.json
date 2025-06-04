@@ -1,0 +1,103 @@
+{
+  "STATUS": true,
+  "MSG": "",
+  "APP_SETTINGS": {
+    "app_name": "USDT Mining",
+    "app_accountLink": "",
+    "app_packageName": "usdt.miningsimulator.usdtmining",
+    "app_privacyPolicyLink": "https://sites.google.com/view/skybix-privacypolicys/",
+    "app_termsLink": "https://sites.google.com/view/skybix-terms/",
+    "app_updateAppDialogStatus": "0",
+    "app_versionCode": "",
+    "app_redirectOtherAppStatus": "0",
+    "app_loader_time": "2",
+    "app_adShowStatus": "0",
+    "app_showAdBadge": "1",
+    "app_AppOpenAdStatus": "1",
+    "app_splashAdType": "AppOpen",
+    "app_backPressAdStatus": "1",
+    "app_inter_click": "1",
+    "app_back_inter_click": "0",
+    "app_backPressAdTypePriority": "admob,appLovin,facebook,unity",
+    "app_adPlatformPriority": "admob,appLovin,facebook,unity",
+    "app_adPlatformPriorityInterstitial": "admob,appLovin,facebook,unity",
+    "app_adPlatformPriorityNative": "admob,appLovin,facebook,unity",
+    "app_adPlatformPriorityBanner": "admob,appLovin,facebook,unity",
+    "appNativeAdPlaceHolder": "1",
+    "appBannerAdPlaceHolder": "1",
+    "appAdPlaceHolderText": "Ad Loading",
+    "appAdsButtonColor": "#7545D7",
+    "appAdsButtonTextColor": "#FFFFFF",
+    "adsNativeBgColor": "#FFFFFF",
+    "apponResumeAd": "0",
+    "appAutoUrlonPage": "1",
+    "appAutoPageUrl": "https://www.google.com/",
+    "appNativeBanner": "0",
+    "appMultiNative": "1",
+    "StopApp": "0",
+    "appExitGameURL": "",
+    "appQuizHeaderShow": "1",
+    "appAppopenInterstitialAd": "0",
+    "appQuizHeaderUrl": "https://www.google.com/",
+    "appOpenAdsclick": "0",
+    "appAutoPageUrlCount": "0",
+    "ExitDialog": "1"
+  },
+  "PLACEMENT": {
+    "admob": {
+      "ad_showAdStatus": "1",
+      "ad_loadAdIdsType": "0",
+      "AppID": "ca-app-pub-3940256099942544~3347511713",
+      "Banner1": "ca-app-pub-3940256099942544/6300978111",
+      "Interstitial1": "/6499/example/interstitial",
+      "Native1": "/6499/example/native",
+      "RewardedVideo1": "ca-app-pub-3940256099942544/5224354917",
+      "AppOpen1": "ca-app-pub-3940256099942544/9257395921"
+    },
+    "facebook": {
+      "AppID": "1579706379118402",
+      "ad_showAdStatus": "1",
+      "ad_loadAdIdsType": "0",
+      "Banner1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Interstitial1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Native1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "RewardedVideo1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+    "MyCustomAds": {
+      "ad_showAdStatus": "0",
+      "ad_loadAdIdsType": "0"
+    },
+    "appLovin": {
+      "AppID": "qNw17EdZ9i_vVAUnNswBSHweGx0bMB8x2Oz5IpOHCBX_WL_ls22qANHAp57iJpyT0rcn3ECPkIJLNtXE8EbOGF",
+      "ad_showAdStatus": "1",
+      "ad_loadAdIdsType": "0",
+      "Banner1": "bc2527d81eac5b24",
+      "Interstitial1": "ea51571071640bce",
+      "Native1": "5afa13359bfa5c14",
+      "RewardedVideo1": ""
+    },
+    "unity": {
+      "AppID": "",
+      "ad_showAdStatus": "1",
+      "ad_loadAdIdsType": "0",
+      "Banner1": "bc2527d81eac5b24",
+      "Interstitial1": "ea51571071640bce",
+      "Native1": "5afa13359bfa5c14"
+    }
+  },
+  "Advertise_List": [
+      {
+      "ad_id": "20",
+      "app_name": "Collect awesome daily rewards",
+      "app_packageName": "redirect-url",
+      "app_logo": "url",
+      "app_banner": "url",
+      "app_shortDecription": "6,500 + Exciting levels, with more, added all the time. ",
+      "app_buttonName": "Play Game",
+      "app_rating": "4.5",
+      "app_download": "1000000",
+      "app_AdFormat": "Banner,NativeBanner"
+    }
+    ],
+  "EXTRA_DATA": null
+}
