@@ -17,7 +17,7 @@
     "app_splashAdType": "AppOpen",
     "app_backPressAdStatus": "1",
     "app_inter_click": "1",
-    "app_back_inter_click": "1",
+    "app_back_inter_click": "0",
     "app_backPressAdTypePriority": "admob,appLovin,facebook,unity",
     "app_adPlatformPriority": "admob,appLovin,facebook,unity",
     "app_adPlatformPriorityInterstitial": "admob,appLovin,facebook,unity",
