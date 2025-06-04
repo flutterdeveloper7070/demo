@@ -99,5 +99,9 @@
       "app_AdFormat": "Banner,NativeBanner"
     }
     ],
-  "EXTRA_DATA": null
+  "EXTRA_DATA": null,
+  "mining_ring_price":"1.99",
+  "mining_speed_price":"1.99",
+  "mining_time_price":"1.99",
+  "stripe_enable": true
 }
