@@ -30,7 +30,7 @@
     "appAdsButtonTextColor": "#FFFFFF",
     "adsNativeBgColor": "#FFFFFF",
     "apponResumeAd": "0",
-    "appAutoUrlonPage": "1",
+    "appAutoUrlonPage": "0",
     "appAutoPageUrl": "https://www.google.com/",
     "appNativeBanner": "0",
     "appMultiNative": "1",
