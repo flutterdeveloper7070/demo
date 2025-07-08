@@ -105,7 +105,7 @@
   "mining_time_price":"2.0",
   "home_mining_time_price":"40.00",
   "home_mining_speed_price":"80.00",
-  "stripe_enable": true,
+  "stripe_enable": false,
   "stripe_key_pk": "pk_live_51RY1r4P1ZjFzFH9M8EXo7Msmd2TU3UK1P1CacwxGLO2rIGU5vSCeDWFCjIymCpqHsmqx3CwX7CMHddgzMbqM4fRy00YmvjEotk",
   "stripe_key_sk": "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",
   "withdrawal_date" : "01-07-2027",
