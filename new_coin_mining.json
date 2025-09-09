@@ -11,7 +11,7 @@
     "app_versionCode": "",
     "app_redirectOtherAppStatus": "0",
     "app_loader_time": "0",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "app_showAdBadge": "1",
     "app_AppOpenAdStatus": "1",
     "app_splashAdType": "AppOpen",
@@ -48,11 +48,11 @@
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/22846411849,23037804707/JBM_GoldMining_Banner",
-      "Interstitial1": "/22846411849,23037804707/JBM_GoldMining_Inter",
-      "Native1": "/22846411849,23037804707/JBM_GoldMining_Native",
-      "RewardedVideo1": "/22846411849,23037804707/JBM_GoldMining_Rewarded",
-      "AppOpen1": "/22846411849,23037804707/JBM_GoldMining_Appopen"
+      "Banner1": "ca-app-pub-3940256099942544/6300978111r",
+      "Interstitial1": "/6499/example/interstitial",
+      "Native1": "/6499/example/native",
+      "RewardedVideo1": "ca-app-pub-3940256099942544/5224354917",
+      "AppOpen1": "ca-app-pub-3940256099942544/9257395921"
     },
     "facebook": {
       "AppID": "1579706379118402",
