@@ -48,11 +48,11 @@
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/22846411849,22872020703/JBM_TetherMining_Banner",
-      "Interstitial1": "/22846411849,22872020703/JBM_TetherMining_Inter",
-      "Native1": "/22846411849,22872020703/JBM_TetherMining_Native",
-      "RewardedVideo1": "/22846411849,22872020703/JBM_TetherMining_Rewarded",
-      "AppOpen1": "/22846411849,22872020703/JBM_TetherMining_Appopen"
+      "Banner1": "ca-app-pub-9490496565812282/9459502011",
+      "Interstitial1": "ca-app-pub-9490496565812282/4618486297",
+      "Native1": "ca-app-pub-9490496565812282/6745956183",
+      "RewardedVideo1": "ca-app-pub-9490496565812282/1852722153",
+      "AppOpen1": "ca-app-pub-9490496565812282/8059037859"
     },
     "facebook": {
       "AppID": "1579706379118402",
