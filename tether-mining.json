@@ -4,7 +4,7 @@
   "APP_SETTINGS": {
     "app_name": "Tether Mining Miner Simulation",
     "app_accountLink": "",
-    "app_packageName": "com.tether.tethermining.tethercloudmining",
+    "app_packageName": "com.tether.tethermining.tethercloud",
     "app_privacyPolicyLink": "https://sites.google.com/view/skybix-privacypolicys/",
     "app_termsLink": "https://sites.google.com/view/skybix-terms/",
     "app_updateAppDialogStatus": "0",
