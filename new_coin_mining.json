@@ -55,12 +55,12 @@
       "AppOpen1": "ca-app-pub-3940256099942544/9257395921"
     },
     "facebook": {
-      "AppID": "1579706379118402",
+      "AppID": "4253038174919601",
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
-      "Banner1": "4253038174919601_4253052028251549",
-      "Interstitial1": "4253038174919601_4253052758251476",
-      "Native1": "4253038174919601_4253052908251461",
+      "Banner1": "IMG_16_9_APP_INSTALL#4253038174919601_4253052028251549",
+      "Interstitial1": "VID_HD_16_9_15S_LINK#4253038174919601_4253052758251476",
+      "Native1": "IMG_16_9_APP_INSTALL#4253038174919601_4253052908251461",
       "RewardedVideo1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
     "MyCustomAds": {
