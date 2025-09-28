@@ -100,7 +100,7 @@
     }
     ],
   "admob_interstitial_ads":"",
-  "is_admob_interstitial_ads_enable":false,
+  "is_admob_interstitial_ads_enable":true,
   "EXTRA_DATA": null,
   "mining_ring_price":"2.00",
   "mining_speed_price":"2.00",
