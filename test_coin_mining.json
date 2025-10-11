@@ -48,11 +48,11 @@
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "ca-app-pub-3940256099942544/6300978111",
-      "Interstitial1": "ca-app-pub-3940256099942544/1033173712",
+      "Banner1": "/21775744923/example/adaptive-banner",
+      "Interstitial1": "/21775744923/example/interstitial",
       "Native1": "/21775744923/example/native",
-      "RewardedVideo1": "ca-app-pub-3940256099942544/5224354917",
-      "AppOpen1": "ca-app-pub-3940256099942544/9257395921"
+      "RewardedVideo1": "/21775744923/example/rewarded",
+      "AppOpen1": "/21775744923/example/app-open"
     },
     "facebook": {
       "AppID": "1579706379118402",
