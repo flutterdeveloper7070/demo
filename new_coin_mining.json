@@ -51,7 +51,7 @@
       "Banner1": "/21753324030,22477618884/com.grenterprise.minexcryptomining_Banner",
       "Interstitial1": "/21753324030,22477618884/com.grenterprise.minexcryptomining_Interstitial",
       "Native1": "/21753324030,22477618884/com.grenterprise.minexcryptomining_Native",
-      "RewardedVideo1": "",
+      "RewardedVideo1": "/21753324030,22477618884/com.grenterprise.minexcryptomining_Rewarded",
       "AppOpen1": "/21753324030,22477618884/com.grenterprise.minexcryptomining_AppOpen"
     },
     "facebook": {
@@ -60,7 +60,7 @@
       "ad_loadAdIdsType": "0",
       "Banner1": "4253038174919601_4253052028251549",
       "Interstitial1": "4253038174919601_4253052758251476",
-      "Native1": " ",
+      "Native1": "4253038174919601_4253052908251461",
       "RewardedVideo1": ""
     },
     "MyCustomAds": {
@@ -116,5 +116,5 @@
   "withdrawal_messages": "This feature will be available starting from 31-07-2025. Stay tuned for exciting updates!",
   "facebook_app_id":"4253038174919601",
   "facebook_client_token":"90695d87ee2c0e05f37462749c975418",
-  "fb_native_banner_id":""
+  "fb_native_banner_id":"4253038174919601_4320352668188151"
 }
