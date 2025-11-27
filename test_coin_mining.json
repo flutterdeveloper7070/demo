@@ -59,8 +59,8 @@
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
       "Banner1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Interstitial1": "",
-      "Native1": "",
+      "Interstitial1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Native1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "RewardedVideo1": ""
     },
     "MyCustomAds": {
@@ -100,5 +100,5 @@
     }
     ],
   "EXTRA_DATA": null,
-  "fb_native_banner_id":""
+  "fb_native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 }
