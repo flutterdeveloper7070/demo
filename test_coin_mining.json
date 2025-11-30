@@ -2,9 +2,9 @@
   "STATUS": true,
   "MSG": "",
   "APP_SETTINGS": {
-    "app_name": "USDT Mining",
+    "app_name": "Gold Mining Miner Simulation",
     "app_accountLink": "",
-    "app_packageName": "com.grenterprise.minexcryptomining",
+    "app_packageName": "com.gold.mine.goldmining",
     "app_privacyPolicyLink": "https://sites.google.com/view/skybix-privacypolicys/",
     "app_termsLink": "https://sites.google.com/view/skybix-terms/",
     "app_updateAppDialogStatus": "0",
@@ -26,12 +26,12 @@
     "appNativeAdPlaceHolder": "1",
     "appBannerAdPlaceHolder": "1",
     "appAdPlaceHolderText": "Ad Loading",
-    "appAdsButtonColor": "#7545D7",
+    "appAdsButtonColor": "#26A17B",
     "appAdsButtonTextColor": "#FFFFFF",
     "adsNativeBgColor": "#FFFFFF",
     "apponResumeAd": "0",
     "appAutoUrlonPage": "0",
-    "appAutoPageUrl": "https://www.google.com/",
+    "appAutoPageUrl": "https://125.mark.mglgamez.com/pregames",
     "appNativeBanner": "0",
     "appMultiNative": "1",
     "StopApp": "0",
@@ -55,13 +55,13 @@
       "AppOpen1": "ca-app-pub-3940256099942544/9257395921"
     },
     "facebook": {
-      "AppID": "1579706379118402",
+      "AppID": "827903400216053",
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
       "Banner1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "Interstitial1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "Native1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "RewardedVideo1": ""
+      "RewardedVideo1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
     "MyCustomAds": {
       "ad_showAdStatus": "0",
@@ -100,5 +100,21 @@
     }
     ],
   "EXTRA_DATA": null,
+  "marketing_source": [
+    "1234",
+    "4567"
+  ],
+  "mining_ring_price":"2.0",
+  "mining_speed_price":"2.0",
+  "mining_time_price":"2.0",
+  "home_mining_time_price":"40.00",
+  "home_mining_speed_price":"80.00",
+  "stripe_enable": false,
+  "stripe_key_pk": "pk_live_51RY1r4P1ZjFzFH9M8EXo7Msmd2TU3UK1P1CacwxGLO2rIGU5vSCeDWFCjIymCpqHsmqx3CwX7CMHddgzMbqM4fRy00YmvjEotk",
+  "stripe_key_sk": "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",
+  "withdrawal_date" : "01-07-2027",
+  "withdrawal_messages": "This feature will be available starting from 31-07-2025. Stay tuned for exciting updates!",
+  "facebook_app_id":"827903400216053",
+  "facebook_client_token":"9580e71c23cb34206d5cc30f39fd18be",
   "fb_native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 }
