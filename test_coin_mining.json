@@ -58,10 +58,10 @@
       "AppID": "827903400216053",
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
-      "Banner1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Interstitial1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Native1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "RewardedVideo1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      "Banner1": "",
+      "Interstitial1": "",
+      "Native1": "",
+      "RewardedVideo1": ""
     },
     "MyCustomAds": {
       "ad_showAdStatus": "0",
