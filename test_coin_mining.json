@@ -116,5 +116,17 @@
   "withdrawal_messages": "This feature will be available starting from 31-07-2025. Stay tuned for exciting updates!",
   "facebook_app_id":"827903400216053",
   "facebook_client_token":"9580e71c23cb34206d5cc30f39fd18be",
-  "fb_native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  "fb_native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "app_update_info": {
+      "update": {
+        "is_update": true,
+        "title": "Update Available",
+        "description": "A new version of the app is available. Please update.",
+        "later_button": "Later",
+        "update_button": "Update",
+        "playstore_url": "https://play.google.com/store/apps/details?id=com.yourapp.package",
+        "version": "1.0.0",
+        "force_update": true
+      }
+    }
 }
