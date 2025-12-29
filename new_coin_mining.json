@@ -13,7 +13,7 @@
     "app_loader_time": "2",
     "app_adShowStatus": "1",
     "app_showAdBadge": "1",
-    "app_AppOpenAdStatus": "1",
+    "app_AppOpenAdStatus": "0",
     "app_splashAdType": "AppOpen",
     "app_backPressAdStatus": "1",
     "app_inter_click": "1",
