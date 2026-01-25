@@ -48,10 +48,10 @@
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
       "AppID": "ca-app-pub-7664893030317051~5350814158",
-      "Banner1": "/21753324030,22477618884/com.grenterprise.minexcryptomining_Banner",
-      "Interstitial1": "/21753324030,22477618884/com.grenterprise.minexcryptomining_Interstitial",
-      "Native1": "/21753324030,22477618884/com.grenterprise.minexcryptomining_Native",
-      "RewardedVideo1": "/21753324030,22477618884/com.grenterprise.minexcryptomining_Rewarded",
+      "Banner1": "ca-app-pub-7327933131621198/7031988107",
+      "Interstitial1": "ca-app-pub-7327933131621198/3364700673",
+      "Native1": "ca-app-pub-7327933131621198/2602283343",
+      "RewardedVideo1": "ca-app-pub-7327933131621198/3041923588",
       "AppOpen1": "/21753324030,22477618884/com.grenterprise.minexcryptomining_AppOpen"
     },
     "facebook": {
