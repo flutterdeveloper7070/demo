@@ -2,16 +2,16 @@
   "STATUS": true,
   "MSG": "",
   "APP_SETTINGS": {
-    "app_name": "Gold Mining Miner Simulation",
+    "app_name": "Mynix : BTC Cloud Mining",
     "app_accountLink": "",
-    "app_packageName": "com.gold.mine.goldmining",
+    "app_packageName": "com.cryptocloud.cloudmining",
     "app_privacyPolicyLink": "https://sites.google.com/view/skybix-privacypolicys/",
     "app_termsLink": "https://sites.google.com/view/skybix-terms/",
     "app_updateAppDialogStatus": "0",
     "app_versionCode": "",
     "app_redirectOtherAppStatus": "0",
     "app_loader_time": "2",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "app_showAdBadge": "1",
     "app_AppOpenAdStatus": "0",
     "app_splashAdType": "AppOpen",
@@ -48,19 +48,19 @@
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "ca-app-pub-3940256099942544/6300978111",
-      "Interstitial1": "ca-app-pub-3940256099942544/1033173712",
-      "Native1": "/21775744923/example/native",
-      "RewardedVideo1": "ca-app-pub-3940256099942544/5224354917",
-      "AppOpen1": "ca-app-pub-3940256099942544/9257395921"
+      "Banner1": "",
+      "Interstitial1": "",
+      "Native1": "",
+      "RewardedVideo1": "",
+      "AppOpen1": ""
     },
     "facebook": {
       "AppID": "827903400216053",
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
-      "Banner1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Interstitial1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Native1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Banner1": "827903400216053_891966353809757",
+      "Interstitial1": "827903400216053_891966493809743",
+      "Native1": "827903400216053_891966707143055",
       "RewardedVideo1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
     "MyCustomAds": {
@@ -116,7 +116,7 @@
   "withdrawal_messages": "This feature will be available starting from 31-07-2025. Stay tuned for exciting updates!",
   "facebook_app_id":"827903400216053",
   "facebook_client_token":"9580e71c23cb34206d5cc30f39fd18be",
-  "fb_native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "fb_native_banner_id":"827903400216053_891966937143032",
   "app_update_info": {
       "update": {
         "is_update": true,
