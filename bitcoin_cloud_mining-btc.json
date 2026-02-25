@@ -11,9 +11,9 @@
     "app_versionCode": "",
     "app_redirectOtherAppStatus": "0",
     "app_loader_time": "2",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "app_showAdBadge": "1",
-    "app_AppOpenAdStatus": "0",
+    "app_AppOpenAdStatus": "1",
     "app_splashAdType": "AppOpen",
     "app_backPressAdStatus": "1",
     "app_inter_click": "1",
@@ -47,21 +47,21 @@
     "admob": {
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
-      "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "",
-      "Interstitial1": "",
-      "Native1": "",
-      "RewardedVideo1": "",
-      "AppOpen1": ""
+      "AppID": "ca-app-pub-7664893030317051~9103355319",
+      "Banner1": "/21753324030,22477618884/com.cryptocloud.cloudmining_Banner",
+      "Interstitial1": "/21753324030,22477618884/com.cryptocloud.cloudmining_Interstitial",
+      "Native1": "/21753324030,22477618884/com.cryptocloud.cloudmining_Native",
+      "RewardedVideo1": "/21753324030,22477618884/com.cryptocloud.cloudmining_Rewarded",
+      "AppOpen1": "/21753324030,22477618884/com.cryptocloud.cloudmining_AppOpen"
     },
     "facebook": {
       "AppID": "827903400216053",
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
-      "Banner1": "827903400216053_891966353809757",
-      "Interstitial1": "827903400216053_891966493809743",
-      "Native1": "827903400216053_891966707143055",
-      "RewardedVideo1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      "Banner1": "",
+      "Interstitial1": "",
+      "Native1": "",
+      "RewardedVideo1": ""
     },
     "MyCustomAds": {
       "ad_showAdStatus": "0",
