@@ -31,7 +31,7 @@
     "adsNativeBgColor": "#FFFFFF",
     "apponResumeAd": "0",
     "appAutoUrlonPage": "0",
-    "appAutoPageUrl": "https://125.mark.mglgamez.com/pregames",
+    "appAutoPageUrl": "",
     "appNativeBanner": "0",
     "appMultiNative": "1",
     "StopApp": "0",
@@ -49,7 +49,7 @@
       "ad_loadAdIdsType": "0",
       "AppID": "ca-app-pub-3940256099942544~3347511713",
       "Banner1": "ca-app-pub-3940256099942544/6300978111",
-      "Interstitial1": "ca-app-pub-3940256099942544/1033173712",
+      "Interstitial1": "",
       "Native1": "/21775744923/example/native",
       "RewardedVideo1": "ca-app-pub-3940256099942544/5224354917",
       "AppOpen1": "ca-app-pub-3940256099942544/9257395921"
