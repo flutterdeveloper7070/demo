@@ -117,6 +117,9 @@
   "facebook_app_id":"4253038174919601",
   "facebook_client_token":"90695d87ee2c0e05f37462749c975418",
   "fb_native_banner_id":"",
+  "google_native_banner_id_1": "",
+  "google_native_banner_id_2": "",
+  "google_native_big_id_1": "",
   "app_update_info": {
       "update": {
         "is_update": true,
