@@ -58,9 +58,9 @@
       "AppID": "827903400216053",
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0",
-      "Banner1": "827903400216053_891966353809757",
-      "Interstitial1": "827903400216053_891966493809743",
-      "Native1": "827903400216053_891966707143055",
+      "Banner1": "",
+      "Interstitial1": "",
+      "Native1": "",
       "RewardedVideo1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
     "MyCustomAds": {
@@ -116,7 +116,7 @@
   "withdrawal_messages": "This feature will be available starting from 31-07-2025. Stay tuned for exciting updates!",
   "facebook_app_id":"827903400216053",
   "facebook_client_token":"9580e71c23cb34206d5cc30f39fd18be",
-  "fb_native_banner_id":"827903400216053_891966937143032",
+  "fb_native_banner_id":"",
   "google_native_banner_id_1": "ca-app-pub-4775365121183117/4489651799",
   "google_native_banner_id_2": "ca-app-pub-4775365121183117/4489651799",
   "google_native_big_id_1": "ca-app-pub-4775365121183117/4489651799",
