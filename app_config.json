@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "updated_at": "2026-06-19T10:00:00Z",
+    "environment": "production"
+  },
+
+  "app_config": {
+    "min_supported_version": "1.0.0",
+    "latest_version": "1.2.0",
+    "force_update": false,
+    "force_update_message": "Navu update available che. App use karvaa maate please update karo.",
+    "maintenance_mode": false,
+    "maintenance_message": "App hamare maintenance par che. Thodi var pachhi try karo.",
+    "maintenance_end_time": "2026-06-19T12:00:00Z"
+  },
+
+  "ads": {
+    "enabled": true,
+    "android": {
+      "interstitial": {
+        "enabled": true,
+        "click_limit": 3,
+        "preload_after_close": true,
+        "units": [
+          "ca-app-pub-3940256099942544/1033173712",
+          "ca-app-pub-3940256099942544/8691691433",
+          "ca-app-pub-3940256099942544/4411468910"
+        ]
+      },
+      "rewarded": {
+        "enabled": true,
+        "click_limit": 5,
+        "preload_after_close": true,
+        "units": [
+          "ca-app-pub-3940256099942544/5224354917",
+          "ca-app-pub-3940256099942544/5354046379",
+          "ca-app-pub-3940256099942544/1033173712"
+        ]
+      }
+    },
+    "ios": {
+      "interstitial": {
+        "enabled": true,
+        "click_limit": 3,
+        "preload_after_close": true,
+        "units": [
+          "ca-app-pub-YYYYYYYYYYYYYYYY/YYYYYYYYYY",
+          "ca-app-pub-YYYYYYYYYYYYYYYY/YYYYYYYYYY",
+          "ca-app-pub-YYYYYYYYYYYYYYYY/YYYYYYYYYY"
+        ]
+      },
+      "rewarded": {
+        "enabled": true,
+        "click_limit": 5,
+        "preload_after_close": true,
+        "units": [
+          "ca-app-pub-YYYYYYYYYYYYYYYY/YYYYYYYYYY",
+          "ca-app-pub-YYYYYYYYYYYYYYYY/YYYYYYYYYY",
+          "ca-app-pub-YYYYYYYYYYYYYYYY/YYYYYYYYYY"
+        ]
+      }
+    }
+  },
+
+  "feature_flags": {
+    "show_ads": true,
+    "show_rewarded_ads": true,
+    "show_interstitial_ads": true,
+    "dark_mode_enabled": true,
+    "analytics_enabled": true
+  }
+}
