@@ -10,7 +10,7 @@
     "latest_version": "1.2.0",
     "force_update": false,
     "force_update_message": "Navu update available che. App use karvaa maate please update karo.",
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_message": "App hamare maintenance par che. Thodi var pachhi try karo.",
     "maintenance_end_time": "2026-06-19T12:00:00Z"
   },
