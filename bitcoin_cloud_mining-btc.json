@@ -11,7 +11,7 @@
     "app_versionCode": "",
     "app_redirectOtherAppStatus": "0",
     "app_loader_time": "2",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "app_showAdBadge": "0",
     "app_AppOpenAdStatus": "0",
     "app_splashAdType": "AppOpen",
@@ -52,7 +52,7 @@
       "Interstitial1": "ca-app-pub-4775365121183117/1618899696",
       "Native1": "ca-app-pub-4775365121183117/4489651799",
       "RewardedVideo1": "ca-app-pub-4775365121183117/4684046732",
-      "AppOpen1": "/21753324030,22477618884/com.cryptocloud.cloudmining_AppOpen"
+      "AppOpen1": ""
     },
     "facebook": {
       "AppID": "827903400216053",
