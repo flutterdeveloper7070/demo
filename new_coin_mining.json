@@ -13,10 +13,10 @@
     "app_loader_time": "2",
     "app_adShowStatus": "1",
     "app_showAdBadge": "1",
-    "app_AppOpenAdStatus": "1",
+    "app_AppOpenAdStatus": "0",
     "app_splashAdType": "AppOpen",
     "app_backPressAdStatus": "1",
-    "app_inter_click": "2",
+    "app_inter_click": "5",
     "app_back_inter_click": "0",
     "app_backPressAdTypePriority": "admob,facebook,appLovin,unity",
     "app_adPlatformPriority": "facebook,admob,appLovin,unity",
@@ -50,8 +50,8 @@
       "AppID": "ca-app-pub-7327933131621198~6596873836",
       "Banner1": "ca-app-pub-7327933131621198/7031988107",
       "Interstitial1": "ca-app-pub-7327933131621198/3364700673",
-      "Native1": "ca-app-pub-7327933131621198/2602283343",
-      "RewardedVideo1": "ca-app-pub-7327933131621198/3041923588",
+      "Native1": "",
+      "RewardedVideo1": "",
       "AppOpen1": "ca-app-pub-7327933131621198/3643547679"
     },
     "facebook": {
@@ -116,9 +116,9 @@
   "withdrawal_messages": "This feature will be available starting from 31-07-2025. Stay tuned for exciting updates!",
   "facebook_app_id":"4253038174919601",
   "facebook_client_token":"90695d87ee2c0e05f37462749c975418",
-  "fb_native_banner_id":"4253038174919601_4320352668188151",
+  "fb_native_banner_id":"",
   "google_native_banner_id_1": "",
-  "google_native_banner_id_2": "ca-app-pub-7327933131621198/2602283343",
+  "google_native_banner_id_2": "",
   "google_native_big_id_1": "",
   "app_update_info": {
       "update": {
